@@ -42,7 +42,7 @@ With the rapid evolution of Large Language Models (LLMs), LLM‑based agents and
 ### 🧠 Brain (LLM)
 ⚠️ **Attack**
 1. *"Describe, explain, plan and select: interactive planning with llms enables open‑world multi‑task agents"* (2023)
-Zihao Wang et al. [Paper]()
+Zihao Wang et al. [Paper](Large Language Models Improve Alzheimer's Disease Diagnosis Using Multi-Modality Data；https://ieeexplore.ieee.org/document/10403166)
 
 2. *"Certifying llm safety against adversarial prompting"* (arXiv 2023)
 Kumar et al. [Paper]()
