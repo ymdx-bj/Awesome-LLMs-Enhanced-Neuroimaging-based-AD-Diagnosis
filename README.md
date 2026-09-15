@@ -82,8 +82,8 @@ The reviewed methods are grouped according to how LLMs participate in the AD dia
   * [National Alzheimer’s Coordinating Center (NACC)](https://www.naccdata.org/)
   * [Minimal Interval Resonance Imaging in Alzheimer’s Disease (MIRIAD)](https://www.ucl.ac.uk/brain-sciences/ion/research/research-centres/dementia-research-centre/research-clinical-trials/minimal-interval-resonance-imaging-alzheimers-disease-miriad)
   * [Alzheimer’s Brain MRI (AB-MRI)](https://www.kaggle.com/datasets/preetpalsingh25/alzheimers-dataset-4-class-of-images)
-  * Latin American Brain Health Institute (BrainLat)
-  * Neuroimaging Initiative for Frontotemporal Lobar Degeneration (NIFD)
+  * [Latin American Brain Health Institute (BrainLat)](https://brainlat.uai.cl/)
+  * [Neuroimaging Initiative for Frontotemporal Lobar Degeneration(NIFD)](https://ida.loni.usc.edu/collaboration/access/appLicense.jsp#:~:text=NIFD%20is%20the%20nickname%20for%20the%20frontotemporal%20lobar,characterize%20longitudinal%20clinical%20and%20imaging%20changes%20in%20FTLD.)
   * [Parkinson’s Progression Markers Initiative (PPMI)](https://www.ppmi-info.org/access-data-specimens/download-data/)
 
 ### Private Datasets
