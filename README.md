@@ -97,28 +97,28 @@ The reviewed methods are grouped according to how LLMs participate in the AD dia
 
 ### Representation Learning
 
-  * “BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification”
-  * “Clinical Dementia Rating Classification Using Integrated Vision and Language Information”
-  * “Large Language Models Improve Alzheimer’s Disease Diagnosis Using Multi-Modality Data”
-  * “Schema-Adaptive Tabular Representation Learning with LLMs for Generalizable Multimodal Clinical Reasoning”
-  * “Diffusion with a Linguistic Compass: Steering the Generation of Clinically Plausible Future sMRI Representations for Early MCI Conversion Prediction”
+  * [BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification]()
+  * [Clinical Dementia Rating Classification Using Integrated Vision and Language Information]()
+  * [Large Language Models Improve Alzheimer’s Disease Diagnosis Using Multi-Modality Data]()
+  * [Schema-Adaptive Tabular Representation Learning with LLMs for Generalizable Multimodal Clinical Reasoning]()
+  * [Diffusion with a Linguistic Compass: Steering the Generation of Clinically Plausible Future sMRI Representations for Early MCI Conversion Prediction]()
 
 ### Clinical Reasoning
 
-  * “Large Language Models Are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales”
-  * “A Vision-Language Model for Enhanced MCI Identification in Alzheimer’s Disease through Neuropsychological and Neuroimaging Data Integration”
-  * “FLIQA-AD: A Fusion Model with Large Language Model for Better Diagnose and MMSE Prediction of Alzheimer’s Disease”
-  * “An Explainable Diagnostic Framework for Neurodegenerative Dementias via Reinforcement-Optimized LLM Reasoning”
-  * “NeuroSymAD: A Neuro-Symbolic Framework for Interpretable Alzheimer’s Disease Diagnosis”
-  * “Tabular LLMs for Interpretable Few-Shot Alzheimer’s Disease Prediction with Multimodal Biomedical Data”
+  * [Large Language Models Are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales]()
+  * [A Vision-Language Model for Enhanced MCI Identification in Alzheimer’s Disease through Neuropsychological and Neuroimaging Data Integration]()
+  * [FLIQA-AD: A Fusion Model with Large Language Model for Better Diagnose and MMSE Prediction of Alzheimer’s Disease]()
+  * [An Explainable Diagnostic Framework for Neurodegenerative Dementias via Reinforcement-Optimized LLM Reasoning]()
+  * [NeuroSymAD: A Neuro-Symbolic Framework for Interpretable Alzheimer’s Disease Diagnosis]()
+  * [Tabular LLMs for Interpretable Few-Shot Alzheimer’s Disease Prediction with Multimodal Biomedical Data]()
 
 ### Agent Orchestration
 
-  * “ADAgent: LLM-based Agent for Alzheimer’s Disease Analysis”
-  * “Medical Diagnosis with Tool-Augmented Reasoning Agents for Flexible Extensibility”
-  * “A Large Language Model-Based Self-Learning and Critical Agent Framework for Multimodal Alzheimer’s Disease Diagnosis”
-  * “NeuroAgent: LLM Agents for Multimodal Neuroimaging Analysis and Research”
-  * “Towards a Virtual Neuroscientist: Autonomous Neuroimaging Analysis via Multi-Agent Collaboration”
+  * [ADAgent: LLM-based Agent for Alzheimer’s Disease Analysis](https://link.springer.com/chapter/10.1007/978-3-032-06004-4_3)
+  * [Medical Diagnosis with Tool-Augmented Reasoning Agents for Flexible Extensibility]()
+  * [A Large Language Model-Based Self-Learning and Critical Agent Framework for Multimodal Alzheimer’s Disease Diagnosis]()
+  * [NeuroAgent: LLM Agents for Multimodal Neuroimaging Analysis and Research]()
+  * [Towards a Virtual Neuroscientist: Autonomous Neuroimaging Analysis via Multi-Agent Collaboration]()
 
 ## 🔍 Review Scope
 
