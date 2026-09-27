@@ -1,16 +1,13 @@
 # Neuroimaging-based Alzheimer’s Disease Diagnosis Powered with Large Language Models
 
 ## 📌 Introduction
+Alzheimer’s disease (AD) is a progressive and irreversible neurodegenerative disorder. Early and accurate AD diagnosis is critical for timely intervention and treatment planning. Subtle brain alterations, including cortical thinning and protein depositions, can be captured by neuroimaging well before the onset of clinical symptoms.
 
-Alzheimer’s disease (AD) is a progressive and irreversible neurodegenerative disorder. Early and accurate diagnosis is essential for timely intervention and treatment planning. Neuroimaging can capture subtle brain alterations, including cortical thinning, brain atrophy, and pathological protein deposition, before the onset of clinical symptoms.
+Computer‑aided diagnosis (CAD) can improve the speed, reliability, and precision of AD diagnosis. Recent advances in large language models (LLMs) have triggered a paradigm shift by enabling multimodal clinical data integration, interpretable diagnostic reasoning, and flexible orchestration of CAD workflows. This repository accompanies the review paper **“Neuroimaging‑based Alzheimer’s Disease Diagnosis Powered with Large Language Models”** and provides a structured collection of studies, datasets, and resources related to LLM‑powered neuroimaging‑based AD diagnosis.
 
-Recent advances in large language models (LLMs) have enabled multimodal clinical data integration, interpretable diagnostic reasoning, and flexible orchestration of medical analysis tools. This repository accompanies the review paper **“Neuroimaging-based Alzheimer’s Disease Diagnosis Powered with Large Language Models”** and provides a structured collection of studies, datasets, and resources related to LLM-powered neuroimaging-based AD diagnosis.
+## 📄 Survey
 
-All included studies are organized according to the functional roles of LLMs in the AD diagnosis workflow.
-
-## 📄 Paper
-
-**Title:** Neuroimaging-based Alzheimer’s Disease Diagnosis Powered with Large Language Models  
+**Title:** Neuroimaging-based Alzheimer’s Disease Diagnosis Powered with Large Language Models   
 **Authors:** Yan Zhao et al.  
 **Institution:** University of Shanghai for Science and Technology; Beijing Normal University; The University of Sydney  
 **Link:** Coming soon
@@ -18,58 +15,52 @@ All included studies are organized according to the functional roles of LLMs in 
 ## 💎 Table of Contents
 
   * [📌 Introduction](#-introduction)
-  * [📄 Paper](#-paper)
+  * [📄 Survey](#-paper)
   * [✨ Highlights](#-highlights)
   * [🏗️ Taxonomy of LLM Roles](#️-taxonomy-of-llm-roles)
-  * [🧠 Key Topics](#-key-topics)
   * [🗂️ Datasets](#️-datasets)
-  * [📖 Papers](#-papers)
-  * [🔍 Review Scope](#-review-scope)
+  * [🔍 General Overview](#-general-overview)
   * [📥 Citation](#-citation)
-  * [📢 Contributing](#-contributing)
-  * [📧 Contact](#-contact)
 
 ## ✨ Highlights
 
-  * Provides a comprehensive review of LLM-powered neuroimaging-based AD diagnosis.
-  * Summarizes the use of sMRI, fMRI, PET, SPECT, clinical assessments, biomarkers, genetic information, and demographic data.
-  * Proposes a taxonomy based on the core functional roles of LLMs: representation learning, clinical reasoning, and agent orchestration.
+  * Proposes a taxonomy based on the core functional roles of LLMs within the AD‑diagnosis workflow, covering information processing, clinical reasoning, and agent orchestrator.
   * Organizes existing studies by imaging modality, input format, LLM architecture, dataset, task, and diagnostic performance.
-  * Discusses technical, clinical, interpretability, safety, ethical, and translational challenges.
+  * Discusses the prominent technical, clinical and ethical limitations of current research, and elaborate promising future research avenues to promote the clinical translation of LLM-based AD diagnostic tools.
 
 ## 🏗️ Taxonomy of LLM Roles
 
 The reviewed methods are grouped according to how LLMs participate in the AD diagnosis pipeline:
 
-  * **Representation Learning:** LLMs or multimodal LLMs encode neuroimaging features, clinical information, and structured biomedical data.
-  * **Clinical Reasoning:** LLMs generate diagnostic predictions, explanations, rationales, and disease-related inferences from multimodal evidence.
-  * **Agent Orchestration:** LLM-based agents coordinate specialized models, tools, datasets, and subtasks to support flexible multimodal diagnosis.
+  * **LLM‑enabled Information Processing:** LLMs or multimodal LLMs encode neuroimaging features, clinical information, and structured biomedical data.
+  * **LLM‑derived Clinical Reasoning:** LLMs generate diagnostic predictions, explanations, rationales, and disease-related inferences from multimodal evidence.
+  * **LLM‑based Agent Orchestrator:** LLM-based agents coordinate specialized models, tools, datasets, and subtasks to support flexible multimodal diagnosis.
 
-## 🧠 Key Topics
 
-### 1️⃣ Representation Learning
+###📖 1️⃣ Information Processing
 
-  * LLM-based neuroimaging feature encoding
-  * Multimodal vision-language alignment
-  * Semantic rephrasing of imaging-derived features
-  * Knowledge generation and knowledge-guided representation learning
-  * Tabular and structured clinical data representation
+  * [BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification]()
+  * [Clinical Dementia Rating Classification Using Integrated Vision and Language Information]()
+  * [Large Language Models Improve Alzheimer’s Disease Diagnosis Using Multi-Modality Data]()
+  * [Schema-Adaptive Tabular Representation Learning with LLMs for Generalizable Multimodal Clinical Reasoning]()
+  * [Diffusion with a Linguistic Compass: Steering the Generation of Clinically Plausible Future sMRI Representations for Early MCI Conversion Prediction]()
 
-### 2️⃣ Clinical Reasoning
+###📖 2️⃣ Clinical Reasoning
 
-  * Multimodal clinical reasoning
-  * Prompt-generated diagnostic rationales
-  * Chain-of-Thought and reasoning-aware diagnosis
-  * Knowledge-enhanced prediction
-  * Interpretable AD classification and progression prediction
+  * [Large Language Models Are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales]()
+  * [A Vision-Language Model for Enhanced MCI Identification in Alzheimer’s Disease through Neuropsychological and Neuroimaging Data Integration]()
+  * [FLIQA-AD: A Fusion Model with Large Language Model for Better Diagnose and MMSE Prediction of Alzheimer’s Disease]()
+  * [An Explainable Diagnostic Framework for Neurodegenerative Dementias via Reinforcement-Optimized LLM Reasoning]()
+  * [NeuroSymAD: A Neuro-Symbolic Framework for Interpretable Alzheimer’s Disease Diagnosis]()
+  * [Tabular LLMs for Interpretable Few-Shot Alzheimer’s Disease Prediction with Multimodal Biomedical Data]()
 
-### 3️⃣ Agent Orchestration
+###📖 3️⃣ Agent Orchestrator
 
-  * Tool-augmented medical reasoning
-  * Multimodal neuroimaging analysis agents
-  * Self-learning and critical-agent frameworks
-  * Multi-agent collaboration
-  * Flexible task assignment and outcome aggregation
+  * [ADAgent: LLM-based Agent for Alzheimer’s Disease Analysis](https://link.springer.com/chapter/10.1007/978-3-032-06004-4_3)
+  * [Medical Diagnosis with Tool-Augmented Reasoning Agents for Flexible Extensibility]()
+  * [A Large Language Model-Based Self-Learning and Critical Agent Framework for Multimodal Alzheimer’s Disease Diagnosis]()
+  * [NeuroAgent: LLM Agents for Multimodal Neuroimaging Analysis and Research]()
+  * [Towards a Virtual Neuroscientist: Autonomous Neuroimaging Analysis via Multi-Agent Collaboration]()
 
 ## 🗂️ Datasets
 
@@ -92,44 +83,10 @@ The reviewed methods are grouped according to how LLMs participate in the AD dia
   * Huashan & Sixth People’s Hospital
   * BRAINS-Data
   * RENJI
+## 🔍 General Overview
 
-## 📖 Papers
 
-### Representation Learning
 
-  * [BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification]()
-  * [Clinical Dementia Rating Classification Using Integrated Vision and Language Information]()
-  * [Large Language Models Improve Alzheimer’s Disease Diagnosis Using Multi-Modality Data]()
-  * [Schema-Adaptive Tabular Representation Learning with LLMs for Generalizable Multimodal Clinical Reasoning]()
-  * [Diffusion with a Linguistic Compass: Steering the Generation of Clinically Plausible Future sMRI Representations for Early MCI Conversion Prediction]()
-
-### Clinical Reasoning
-
-  * [Large Language Models Are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales]()
-  * [A Vision-Language Model for Enhanced MCI Identification in Alzheimer’s Disease through Neuropsychological and Neuroimaging Data Integration]()
-  * [FLIQA-AD: A Fusion Model with Large Language Model for Better Diagnose and MMSE Prediction of Alzheimer’s Disease]()
-  * [An Explainable Diagnostic Framework for Neurodegenerative Dementias via Reinforcement-Optimized LLM Reasoning]()
-  * [NeuroSymAD: A Neuro-Symbolic Framework for Interpretable Alzheimer’s Disease Diagnosis]()
-  * [Tabular LLMs for Interpretable Few-Shot Alzheimer’s Disease Prediction with Multimodal Biomedical Data]()
-
-### Agent Orchestration
-
-  * [ADAgent: LLM-based Agent for Alzheimer’s Disease Analysis](https://link.springer.com/chapter/10.1007/978-3-032-06004-4_3)
-  * [Medical Diagnosis with Tool-Augmented Reasoning Agents for Flexible Extensibility]()
-  * [A Large Language Model-Based Self-Learning and Critical Agent Framework for Multimodal Alzheimer’s Disease Diagnosis]()
-  * [NeuroAgent: LLM Agents for Multimodal Neuroimaging Analysis and Research]()
-  * [Towards a Virtual Neuroscientist: Autonomous Neuroimaging Analysis via Multi-Agent Collaboration]()
-
-## 🔍 Review Scope
-
-This review covers studies that apply LLMs, multimodal LLMs, or LLM-based agents to neuroimaging-based AD diagnosis and related tasks, including:
-
-  * AD, MCI, and cognitively normal classification
-  * Early MCI conversion and disease progression prediction
-  * Brain age estimation and dementia subtype identification
-  * Multimodal imaging-clinical data fusion
-  * Diagnostic explanation and clinical decision support
-  * Tool-augmented and multi-agent neuroimaging analysis
 
 ## 📥 Citation
 
@@ -139,13 +96,4 @@ The citation information will be updated after publication.
 Coming soon
 ```
 
-## 📢 Contributing
-
-If you find a relevant paper, dataset, benchmark, or resource that should be included, please open an issue or submit a pull request. Contributions that improve the coverage and organization of LLM-powered neuroimaging-based AD diagnosis are welcome.
-
-## 📧 Contact
-
-For questions, suggestions, or collaboration inquiries, please contact:
-
-**Email:** To be added
 
