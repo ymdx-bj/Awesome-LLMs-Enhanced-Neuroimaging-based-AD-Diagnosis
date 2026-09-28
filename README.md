@@ -61,12 +61,30 @@ The reviewed methods are grouped according to how LLMs participate in the AD dia
 
 ### 📖 2️⃣ LLM‑derived Clinical Reasoning
 
-  * [Large Language Models Are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales]()
-  * [A Vision-Language Model for Enhanced MCI Identification in Alzheimer’s Disease through Neuropsychological and Neuroimaging Data Integration]()
-  * [FLIQA-AD: A Fusion Model with Large Language Model for Better Diagnose and MMSE Prediction of Alzheimer’s Disease]()
-  * [An Explainable Diagnostic Framework for Neurodegenerative Dementias via Reinforcement-Optimized LLM Reasoning]()
-  * [NeuroSymAD: A Neuro-Symbolic Framework for Interpretable Alzheimer’s Disease Diagnosis]()
-  * [Tabular LLMs for Interpretable Few-Shot Alzheimer’s Disease Prediction with Multimodal Biomedical Data]()
+#### Neuroimage Features
+ * [Enabling Few-Shot Alzheimer’s Disease Diagnosis on Biomarker Data with Tabular LLMs](https://doi.org/10.1145/3765612.3767229)
+ * [Tabular LLMs for Interpretable Few-Shot Alzheimer’s Disease Prediction with Multimodal Biomedical Data](https://doi.org/10.48550/arXiv.2603.17191)
+ * [BRAINS: A Retrieval-Augmented System for Alzheimer’s Detection and Monitoring](https://doi.org/10.1109/ICMLA66185.2025.00224)
+ * [Beyond Classical Approaches: Fine-Tuning Clinical BERT Model on Structured Data for Alzheimer’s Disease Diagnosis](https://doi.org/10.12720/jait.16.6.854-868)
+ * [An Explainable Diagnostic Framework for Neurodegenerative Dementias via Reinforcement-Optimized LLM Reasoning](https://doi.org/10.48550/arXiv.2505.19954)
+
+#### 2D Slice
+ * [Vision-Language Model for Enhanced MCI Identification In Alzheimer’s Disease through Neuropsychological and Neuroimaging Data Integration](https://doi.org/10.1016/j.neunet.2025.108415)
+ * [Data-Driven Analysis of Alzheimer’s Disease Classification Using LLaVA-Med: A Large Language Model Approach](https://doi.org/10.1109/AICCSA63423.2024.10912607)
+ * [Why Text Prevails: Vision May Undermine Multimodal Medical Decision Making](
+https://doi.org/10.48550/arXiv.2512.13747)
+
+
+#### 3D Scan
+ * [FLIQA-AD: A Fusion Model with Large Language Model for Better Diagnose and MMSE Prediction of Alzheimer’s Disease](https://doi.org/10.18653/v1/2025.naacl-short.49)
+ * [Large Language Models Are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales](https://doi.org/10.1609/aaai.v38i16.29802)
+ * [NeuroSymAD: A Neuro-Symbolic Framework for Interpretable Alzheimer’s Disease Diagnosis](
+https://doi.org/10.48550/arXiv.2503.00510)
+ * [MedBLIP: Bootstrapping Language-Image Pretraining from 3D Medical Images and Texts](https://doi.org/10.1007/978-981-96-0908-6_6)
+ * [R-GenIMA: Integrating Neuroimaging and Genetics with Interpretable Multimodal AI for Alzheimer’s Disease Progression](https://doi.org/10.48550/arXiv.2512.18986)
+
+#### Neuroimage Features & 3D Scan
+ * [Diffusion with a Linguistic Compass: Steering the Generation of Clinically Plausible Future sMRI Representations for Early MCI Conversion Prediction](https://openreview.net/forum?id=CVY9W5KFR2#)
 
 ### 📖 3️⃣ LLM‑based Agent Orchestrator
 
