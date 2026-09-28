@@ -37,15 +37,29 @@ The reviewed methods are grouped according to how LLMs participate in the AD dia
   * **LLM‑based Agent Orchestrator:** LLM-based agents coordinate specialized models, tools, datasets, and subtasks to support flexible multimodal diagnosis.
 
 
-###📖 1️⃣ Information Processing
+### 📖 1️⃣ LLM‑enabled Information Processing
 
-  * [BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification]()
-  * [Clinical Dementia Rating Classification Using Integrated Vision and Language Information]()
-  * [Large Language Models Improve Alzheimer’s Disease Diagnosis Using Multi-Modality Data]()
-  * [Schema-Adaptive Tabular Representation Learning with LLMs for Generalizable Multimodal Clinical Reasoning]()
-  * [Diffusion with a Linguistic Compass: Steering the Generation of Clinically Plausible Future sMRI Representations for Early MCI Conversion Prediction]()
+#### Data Tokenization
+* [BrainPrompt: Multi-level Brain Prompt Enhancement for Neurological Condition Identification](https://doi.org/10.1007/978-3-032-05162-2_17)
+* [BrainPrompt+: Multi-Level Brain Prompt Learning for Knowledge-Guided Neurological Disorder Identification](https://doi.org/10.1109/TMI.2026.3692958)
+* [Large Language Models Improve Alzheimer’s Disease Diagnosis Using Multi-Modality Data](https://doi.org/10.1109/MedAI59581.2023.00016)
+* [Language-Enhanced Generative Modeling for Amyloid PET Synthesis from MRI and Blood Biomarkers](https://doi.org/10.1016/j.isci.2026.117122)
+* [Schema-Adaptive Tabular Representation Learning with LLMs for Generalizable Multimodal Clinical Reasoning](https://doi.org/10.48550/arXiv.2604.11835)
 
-###📖 2️⃣ Clinical Reasoning
+#### Data Format Transformation
+
+* [T2AgeNet: A Text-Guided Framework with Tissue Features for Brain Age Estimation](https://doi.org/10.1109/TBME.2025.3643900)
+* [Clinical Dementia Rating Classification Using Integrated Vision and Language Information](https://doi.org/10.1109/ACCESS.2025.3624215)
+* [Cross-modal Causal Intervention for Alzheimer’s Disease Prediction](https://doi.org/10.48550/arXiv.2507.13956)
+* [Domain-adapted language model using reinforcement learning for various dementias](https://doi.org/10.64898/2026.03.17.26348154)
+
+#### Knowledge Generation
+
+* [HoloDx: Knowledge- and Data-Driven Multimodal Diagnosis of Alzheimer’s Disease](https://doi.org/10.1109/TMI.2025.3594364)
+* [Prior-Guided Prototype Aggregation Learning for Alzheimer’s Disease Diagnosis](https://doi.org/10.1007/978-3-032-05182-0_47)
+
+
+### 📖 2️⃣ LLM‑derived Clinical Reasoning
 
   * [Large Language Models Are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales]()
   * [A Vision-Language Model for Enhanced MCI Identification in Alzheimer’s Disease through Neuropsychological and Neuroimaging Data Integration]()
@@ -54,7 +68,7 @@ The reviewed methods are grouped according to how LLMs participate in the AD dia
   * [NeuroSymAD: A Neuro-Symbolic Framework for Interpretable Alzheimer’s Disease Diagnosis]()
   * [Tabular LLMs for Interpretable Few-Shot Alzheimer’s Disease Prediction with Multimodal Biomedical Data]()
 
-###📖 3️⃣ Agent Orchestrator
+### 📖 3️⃣ LLM‑based Agent Orchestrator
 
   * [ADAgent: LLM-based Agent for Alzheimer’s Disease Analysis](https://link.springer.com/chapter/10.1007/978-3-032-06004-4_3)
   * [Medical Diagnosis with Tool-Augmented Reasoning Agents for Flexible Extensibility]()
