@@ -88,11 +88,17 @@ https://doi.org/10.48550/arXiv.2503.00510)
 
 ### 📖 3️⃣ LLM‑based Agent Orchestrator
 
-  * [ADAgent: LLM-based Agent for Alzheimer’s Disease Analysis](https://link.springer.com/chapter/10.1007/978-3-032-06004-4_3)
-  * [Medical Diagnosis with Tool-Augmented Reasoning Agents for Flexible Extensibility]()
-  * [A Large Language Model-Based Self-Learning and Critical Agent Framework for Multimodal Alzheimer’s Disease Diagnosis]()
-  * [NeuroAgent: LLM Agents for Multimodal Neuroimaging Analysis and Research]()
-  * [Towards a Virtual Neuroscientist: Autonomous Neuroimaging Analysis via Multi-Agent Collaboration]()
+#### Specific Agents for AD Diagnosis
+  * [ADAgent: LLM-based Agent for Alzheimer’s Disease Analysis](https://doi.org/10.1007/978-3-032-06004-4_3)
+  * [LAMA-AD: Label-Aware Multi-Agent Alzheimer’s Disease Diagnosis with Counterfactual Reasoning](https://doi.org/10.1109/BIBM66473.2025.11356944)
+  * [A Large Language Model-Based Self-Learning and Critical Agent Framework for Multimodal Alzheimer’s Disease Diagnosis](https://doi.org/10.1037/neu0001079)
+  * [AD-CARE: A Guideline-grounded, Modality-agnostic LLM Agent for Real-world Alzheimer’s Disease Diagnosis with Multi-cohort Assessment, Fairness Analysis, and Reader Study](
+https://doi.org/10.48550/arXiv.2603.25322)
+#### General‑Purpose Agents Capable of AD Diagnosis
+  * [Towards a Virtual Neuroscientist: Autonomous Neuroimaging Analysis via Multi-Agent Collaboration](https://doi.org/10.48550/arXiv.2605.09366)
+  * [NeuroAgent: LLM Agents for Multimodal Neuroimaging Analysis and Research](https://doi.org/10.48550/arXiv.2605.06584)
+  * [MedOrch: Medical Diagnosis with Tool-Augmented Reasoning Agents for Flexible Extensibility](
+https://doi.org/10.48550/arXiv.2506.00235)
 
 ## 🗂️ Datasets
 
@@ -119,10 +125,10 @@ https://doi.org/10.48550/arXiv.2503.00510)
 
 
 ![Sankey Diagram](https://raw.githubusercontent.com/ymdx-bj/Awesome-LLMs-Enhanced-Neuroimaging-based-AD-Diagnosis/main/sankey.png)
-*[Summary of the association of included articles with year (left), corresponding‑author country (middle), and functional roles of LLMs (right) in AD diagnosis workflow.]
+*Summary of the association of included articles with year (left), corresponding‑author country (middle), and functional roles of LLMs (right) in AD diagnosis workflow.
 
 ![Stats Diagram](./stats.png)
-*[(a) Distribution of employed LLMs. (b) Distribution of adopted datasets. (c) Distribution of adopted data modalities and MRI dimensionality across the 32 included studies.]
+*Statistical analysis of the included articles,(a) Distribution of employed LLMs; (b) Distribution of adopted datasets; (c) Distribution of adopted data modalities and MRI dimensionality across the 32 included studies.
 
 
 ## 📥 Citation
