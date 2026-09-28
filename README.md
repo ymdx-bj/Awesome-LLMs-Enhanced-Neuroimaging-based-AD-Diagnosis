@@ -85,7 +85,10 @@ The reviewed methods are grouped according to how LLMs participate in the AD dia
   * RENJI
 ## 🔍 General Overview
 
+https://github.com/ymdx-bj/Awesome-LLMs-Enhanced-Neuroimaging-based-AD-Diagnosis/blob/main/sankey.png
 
+
+https://github.com/ymdx-bj/Awesome-LLMs-Enhanced-Neuroimaging-based-AD-Diagnosis/blob/main/stats.png
 
 
 ## 📥 Citation
