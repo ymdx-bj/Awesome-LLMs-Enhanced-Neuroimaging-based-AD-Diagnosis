@@ -87,9 +87,10 @@ The reviewed methods are grouped according to how LLMs participate in the AD dia
 
 
 ![Sankey Diagram](https://raw.githubusercontent.com/ymdx-bj/Awesome-LLMs-Enhanced-Neuroimaging-based-AD-Diagnosis/main/sankey.png)
-![Sankey Diagram](./sankey.png)
+*[Summary of the association of included articles with year (left), corresponding‑author country (middle), and functional roles of LLMs (right) in AD diagnosis workflow.]
 
-![(a) Distribution of employed LLMs. (b) Distribution of adopted datasets. (c) Distribution of adopted data modalities and MRI dimensionality across the 32 included studies.](https://github.com/ymdx-bj/Awesome-LLMs-Enhanced-Neuroimaging-based-AD-Diagnosis/blob/main/stats.png)
+![Stats Diagram](./stats.png)
+*[(a) Distribution of employed LLMs. (b) Distribution of adopted datasets. (c) Distribution of adopted data modalities and MRI dimensionality across the 32 included studies.]
 
 
 ## 📥 Citation
