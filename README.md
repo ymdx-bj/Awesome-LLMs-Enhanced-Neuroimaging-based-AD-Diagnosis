@@ -61,7 +61,7 @@ The reviewed methods are grouped according to how LLMs participate in the AD dia
 
 ### 📖 2️⃣ LLM‑derived Clinical Reasoning
 
-#### Neuroimage Features
+#### 1D Neuroimage-feature Data
  * [Enabling Few-Shot Alzheimer’s Disease Diagnosis on Biomarker Data with Tabular LLMs](https://doi.org/10.1145/3765612.3767229)
  * [Tabular LLMs for Interpretable Few-Shot Alzheimer’s Disease Prediction with Multimodal Biomedical Data](https://doi.org/10.48550/arXiv.2603.17191)
  * [BRAINS: A Retrieval-Augmented System for Alzheimer’s Detection and Monitoring](https://doi.org/10.1109/ICMLA66185.2025.00224)
