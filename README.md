@@ -23,18 +23,18 @@ Computer‑aided diagnosis (CAD) can improve the speed, reliability, and precisi
   * [📥 Citation](#-citation)
 
 ## ✨ Highlights
-
-  * Proposes a taxonomy based on the core functional roles of LLMs within the AD‑diagnosis workflow, covering information processing, clinical reasoning, and agent orchestrator.
-  * Organizes existing studies by imaging modality, input format, LLM architecture, dataset, task, and diagnostic performance.
-  * Discusses the prominent technical, clinical and ethical limitations of current research, and elaborate promising future research avenues to promote the clinical translation of LLM-based AD diagnostic tools.
+ 
+  * Perform Statistical analysis of employed LLM architecture, adopted datasets; data modality and MRI dimension across the 32 included studies that conduct neuroimaging-based AD diagnosis powered with LLMs
+  * Propose a taxonomy based on the core functional roles of LLMs within the AD‑diagnosis workflow, covering information processing, clinical reasoning, and agent orchestrator.
+  * Discusse the prominent technical, clinical and ethical limitations of current research, and elaborate promising future research avenues to promote the clinical translation of LLM-based AD diagnostic tools.
 
 ## 🏗️ Taxonomy of LLM Roles
 
 The reviewed methods are grouped according to how LLMs participate in the AD diagnosis pipeline:
 
-  * **LLM‑enabled Information Processing:** LLMs or multimodal LLMs encode neuroimaging features, clinical information, and structured biomedical data.
-  * **LLM‑derived Clinical Reasoning:** LLMs generate diagnostic predictions, explanations, rationales, and disease-related inferences from multimodal evidence.
-  * **LLM‑based Agent Orchestrator:** LLM-based agents coordinate specialized models, tools, datasets, and subtasks to support flexible multimodal diagnosis.
+  * **LLM‑enabled Information Processing:** LLMs encode neuroimaging features, clinical records, and structured biomedical information for data tokenization and format transformation, as well as domain knowledge generation.
+  * **LLM‑derived Clinical Reasoning:** LLMs generate diagnostic results and supporting rationales to explain how diagnostic decisions are derived from neuroimaging and clinical evidence.
+  * **LLM‑based Agent Orchestrator:** LLMs work as orchestrators to autonomously plan, act, and interact within AD‑diagnosis workflows to support flexible clinical diagnostic workflows.
 
 
 ### 📖 1️⃣ LLM‑enabled Information Processing
