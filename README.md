@@ -8,8 +8,8 @@ Computer‑aided diagnosis (CAD) can improve the speed, reliability, and precisi
 ## 📄 Survey
 
 **Title:** Neuroimaging-based Alzheimer’s Disease Diagnosis Powered with Large Language Models   
-**Authors:** Yan Zhao et al.  
-**Institution:** University of Shanghai for Science and Technology; Beijing Normal University; The University of Sydney  
+**Authors:** Anonymized for double-blind review process
+**Institution:**  Anonymized for double-blind review process
 **Link:** Coming soon
 
 ## 💎 Table of Contents
